@@ -1,2 +1,2 @@
-# Alans-Riequirement-Map-Thingy
+# Alans-Requirement-Map-Thingy
 Alan's thing for using D3 for making charts and graphs and stuff
