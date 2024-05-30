@@ -27,3 +27,5 @@ Kodak,Samsung,resolved
 Apple,Samsung,suit
 Kodak,RIM,suit
 Nokia,Qualcomm,suit
+test,yes,suit
+yes,test,resolved

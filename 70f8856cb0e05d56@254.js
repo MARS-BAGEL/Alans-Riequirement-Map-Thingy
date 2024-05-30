@@ -1,11 +1,9 @@
 import define1 from "./a33468b95d0b15b0@817.js";
 
 function _1(md){return(
-md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Mobile patent suits</h1><a href="https://d3js.org/">D3</a> › <a href="/@d3/gallery">Gallery</a></div>
+md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Requirements Traceability Map</h1>›
 
-# Mobile patent suits
-
-A view of patent-related lawsuits in the mobile communications industry, circa 2011. Data: [Thomson Reuters](http://blog.thomsonreuters.com/index.php/mobile-patent-suits-graphic-of-the-day/)`
+# Requirements Traceability Map`
 )}
 
 function _2(Swatches,chart){return(
