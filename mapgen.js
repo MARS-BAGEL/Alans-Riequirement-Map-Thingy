@@ -1,4 +1,4 @@
-import define1 from "./a33468b95d0b15b0@817.js";
+import define1 from "./legendlib.js";
 
 function _1(md){return(
 md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Requirements Traceability Map</h1>›
@@ -136,7 +136,7 @@ export default function define(runtime, observer) {
   const main = runtime.module();
   function toString() { return this.url; }
   const fileAttachments = new Map([
-    ["suits.csv", {url: new URL("./files/63c4d2f34c05d62a116fc16daf04215d82790c6bd036ce5783f7d002c5d83f704798ae8d61da50e2cc4cb81af8f629e4b14cc82abeeffd789a0cd425072cf2e6.csv", import.meta.url), mimeType: "text/csv", toString}]
+    ["suits.csv", {url: new URL("./data.csv", import.meta.url), mimeType: "text/csv", toString}]
   ]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], _1);

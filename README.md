@@ -1,5 +1,6 @@
 # Alans-Requirement-Map-Thingy
-Alan's thing for using D3 for making charts and graphs and stuff
+Alan's thing for using D3 for making charts and graphs and stuff. 
+Adapted from work done by Mike Bostock.
 
 # Mobile patent suits
 
