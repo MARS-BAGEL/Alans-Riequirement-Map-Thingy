@@ -13,13 +13,13 @@ function _chart(suits,d3,location,drag,linkArc,invalidation)
 {
 
   const width = 2560;
-  const height = 2560;
+  const height = 2400;
   const types = Array.from(new Set(suits.map(d => d.type)));
   const nodes = Array.from(new Set(suits.flatMap(l => [l.source, l.target])), id => ({id}));
   const links = suits.map(d => Object.create(d))
 
   // const color = d3.scaleOrdinal(types, d3.schemeCategory10);
-  const color = d3.scaleOrdinal(types, ["#e7040f","#000000","#00ff00","#0000ff"]);
+  const color = d3.scaleOrdinal(types, ["#254E70","#A3E7FC","#9A031E"]);
 
   const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id))
