@@ -19,7 +19,7 @@ function _chart(suits,d3,location,drag,linkArc,invalidation)
   const links = suits.map(d => Object.create(d))
 
   // const color = d3.scaleOrdinal(types, d3.schemeCategory10);
-  const color = d3.scaleOrdinal(types, ["#4361ee","#8ac926","#d90429"]);
+  const color = d3.scaleOrdinal(types, ["#ff7f0e","#2ca02c","#d62728"]);
 
   const simulation = d3.forceSimulation(nodes)
       .force("link", d3.forceLink(links).id(d => d.id))
