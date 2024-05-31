@@ -1,8 +1,7 @@
 import define1 from "./legendlib.js";
 
 function _1(md){return(
-md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Requirements Traceability Map</h1>›
-
+md`<div style="color: grey; font: 13px/25.5px var(--sans-serif); text-transform: uppercase;"><h1 style="display: none;">Requirements Traceability Map</h1>
 # Requirements Traceability Map`
 )}
 
@@ -13,8 +12,8 @@ Swatches(chart.scales.color)
 function _chart(suits,d3,location,drag,linkArc,invalidation)
 {
 
-  const width = 928;
-  const height = 600;
+  const width = 2560;
+  const height = 2560;
   const types = Array.from(new Set(suits.map(d => d.type)));
   const nodes = Array.from(new Set(suits.flatMap(l => [l.source, l.target])), id => ({id}));
   const links = suits.map(d => Object.create(d))
