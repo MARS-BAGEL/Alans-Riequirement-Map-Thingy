@@ -30,8 +30,8 @@ STK-S-009,STK-S-017,User Requirements
 STK-S-009,STK-S-018,User Requirements
 STK-S-009,STK-S-019,User Requirements
 STK-S-005,STK-S-020,User Requirements
-RSK-MAV-BIO-001,STK-S-020,User Requirements
-RSK-LAN-BIO-001,STK-S-021,User Requirements
+RSK-MAV-OPS-001,STK-S-020,User Requirements
+RSK-LAN-OPS-001,STK-S-021,User Requirements
 STK-S-005,STK-S-021,User Requirements
 SYS-001,ISR-005,Derived Requirement
 STK-S-017,ISR-006,Derived Requirement
