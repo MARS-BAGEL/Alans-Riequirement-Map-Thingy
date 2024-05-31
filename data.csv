@@ -36,7 +36,7 @@ STK-S-005,STK-S-021,User Requirements
 SYS-001,ISR-005,Derived Requirement
 STK-S-017,ISR-006,Derived Requirement
 STK-M-004,ISR-007,Derived Requirement
-STK-M-005,ISR-008,Derived Requirement
+STK-M-009,ISR-008,Derived Requirement
 SYS-001,ISR-012,Derived Requirement
 STK-M-004,ISR-014,Derived Requirement
 STK-M-004,ISR-015,Derived Requirement
@@ -53,12 +53,13 @@ RSK-LAN-THM-002,LAN-ENV-003,Risk Mitigation
 SYS-003,LAN-ENV-004,Derived Requirement
 LAN-ELC-001,LAN-ENV-005,Derived Requirement
 SYS-003,LAN-ENV-006,Derived Requirement
-STK-M-005,LAN-INT-001,Derived Requirement
+STK-M-009,LAN-INT-001,Derived Requirement
+STK-M-010,LAN-INT-001,Derived Requirement
 STK-M-006,LAN-INT-001,Derived Requirement
 RSK-LAN-ELC-002,LAN-INT-003,Risk Mitigation
 LAN-ELC-005,LAN-INT-003,Derived Requirement
 RSK-LAN-PRP-002,LAN-INT-004,Risk Mitigation
-STK-M-005,LAN-PRP-001,Derived Requirement
+STK-M-010,LAN-PRP-001,Derived Requirement
 RSK-LAN-PRP-001,LAN-PRP-001,Risk Mitigation
 RSK-LAN-PWR-001,LAN-PWR-001,Risk Mitigation
 RSK-MAV-PWR-001,LAN-PWR-002,Risk Mitigation
@@ -97,12 +98,7 @@ STK-M-003,MAV-PRP-005,Derived Requirement
 STK-M-002,MAV-PRP-005,Derived Requirement
 STK-M-002,MAV-PRP-014,Derived Requirement
 STK-M-004,MAV-PRP-007,Derived Requirement
-STK-M-005,MAV-PRP-008,Derived Requirement
-STK-M-005,MAV-PRP-009,Derived Requirement
-STK-M-005,MAV-PRP-010,Derived Requirement
-STK-M-005,MAV-PRP-011,Derived Requirement
-STK-M-005,MAV-PRP-012,Derived Requirement
-STK-M-005,MAV-PRP-013,Derived Requirement
+STK-M-004,MAV-PRP-008,Derived Requirement
 RSK-MAV-PRP-002,MAV-PRP-009,Risk Mitigation
 RSK-MAV-PRP-006,MAV-PRP-010,Risk Mitigation
 RSK-MAV-PRP-002,MAV-PRP-011,Risk Mitigation
@@ -130,17 +126,19 @@ STK-M-001,MKT-004,Derived Requirement
 STK-M-002,MKT-004,Derived Requirement
 STK-M-003,MKT-004,Derived Requirement
 STK-M-004,MKT-004,Derived Requirement
-STK-M-005,MKT-004,Derived Requirement
+STK-M-009,MKT-004,Derived Requirement
+STK-M-010,MKT-004,Derived Requirement
 STK-M-006,MKT-004,Derived Requirement
 STK-M-007,MKT-004,Derived Requirement
 STK-M-008,MKT-004,Derived Requirement
 MKT-006,MKT-005,Derived Requirement
 STK-M-007,MKT-006,Derived Requirement
-STK-M-005,SYS-001,Derived Requirement
+STK-M-009,SYS-001,Derived Requirement
 STK-M-004,SYS-001,Derived Requirement
-RSK-LAN-ELC-002,SYS-002,Derived Requirement
+RSK-LAN-ELC-002,SYS-002,Risk Mitigation
 STK-M-006,SYS-003,Derived Requirement
-STK-M-005,SYS-003,Derived Requirement
+STK-M-009,SYS-003,Derived Requirement
+STK-M-010,SYS-003,Derived Requirement
 All Risks,RSK-LAN-ELC-001,Risk Mitigation
 All Risks,RSK-LAN-ELC-002,Risk Mitigation
 All Risks,RSK-LAN-INT-001,Risk Mitigation
