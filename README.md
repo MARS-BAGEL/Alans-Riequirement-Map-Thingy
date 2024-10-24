@@ -2,8 +2,6 @@
 Alan's thing for using D3 for making charts and graphs and stuff. 
 Adapted from work done by Mike Bostock.
 
-# Mobile patent suits
-
 https://observablehq.com/@d3/mobile-patent-suits@254
 
 View this notebook in your browser by running a web server in this folder. For
